@@ -4,7 +4,7 @@ Digite um nome <input type="text" name="pessoa">
 <input type="submit">
 </form>
 <?php
-/*Ocultar erro para o usuário*/
+/*Ocultar erro*/
 /*
 Para ocultar, coloque o nº zero ou boleno "false".
 Para não ocultar, coloque o nº um ou boleano "true".
